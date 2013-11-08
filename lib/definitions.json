@@ -1,0 +1,19 @@
+[{
+	"code": "de",
+	"language": "Deutsch"
+}, {
+	"code": "de-de",
+	"language": "Deutsch (Deutschland)",
+	"inherits": "de"
+}, {
+	"code": "de-at",
+	"language": "Deutsch (Österreich)",
+	"inherits": "de"
+}, {
+	"code": "en",
+	"language": "English"
+}, {
+	"code": "en-us",
+	"language": "English (United States)",
+	"inherits": "en"
+}]

@@ -1,0 +1,16 @@
+{
+  "name": "t",
+  "repo": "Swatinem/t",
+  "version": "0.0.1",
+  "description": "extended translating",
+  "keywords": [],
+  "main": "lib/index.js",
+  "scripts": [
+    "lib/index.js",
+    "lib/definitions.json"
+  ],
+  "dependencies": {
+    "component/t": "*"
+  },
+  "license": "LGPLv3"
+}
