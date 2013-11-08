@@ -8,10 +8,32 @@ extended translating
 
 ## Installation
 
-    $ npm install t
+    $ component install Swatinem/t
 
 ## Usage
 
+This inherits from [component/t](https://github.com/component/t) but extends it
+with some useful utilities to handle multiple languages. Also handles inheritance.
+
+### t.definition(code)
+
+Returns the definition of a language.
+
+```json
+{
+	"code": "de-at",
+	"language": "Deutsch (Österreich)",
+	"inherits": "de"
+}
+```
+
+### t.definition(object)
+
+Creates a new language definition, takes care of inheritance. See above for example.
+
+### t.merge(code, object)
+
+Merges the strings given in `object` to the ones already defined in language `code`.
 
 ## License
 
