@@ -6,7 +6,9 @@
   "keywords": [],
   "main": "lib/index.js",
   "scripts": [
-    "lib/index.js",
+    "lib/index.js"
+  ],
+  "json": [
     "lib/definitions.json"
   ],
   "dependencies": {
