@@ -1,6 +1,6 @@
 {
   "name": "t",
-  "private": "true",
+  "private": true,
   "description": "extended translating",
   "version": "0.0.1",
   "keywords": [],
