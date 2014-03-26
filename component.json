@@ -4,9 +4,9 @@
   "version": "0.0.1",
   "description": "extended translating",
   "keywords": [],
-  "main": "lib/index.js",
+  "main": "index.js",
   "scripts": [
-    "lib/index.js"
+    "index.js"
   ],
   "json": [
     "lib/definitions.json"
