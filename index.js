@@ -1,11 +1,7 @@
 /* vim: set shiftwidth=2 tabstop=2 noexpandtab textwidth=80 wrap : */
 "use strict";
 
-try {
-	exports = module.exports = require('t');
-} catch (e) {
-	exports = module.exports = require('t-component');
-}
+exports = module.exports = require('t');
 
 var definitions = {};
 
@@ -30,4 +26,4 @@ exports.merge = function merge(code, strings) {
 };
 
 // load some standard definitions
-require('./lib/definitions.json').forEach(exports.definition);
+require('lib/definitions.json').forEach(exports.definition);
