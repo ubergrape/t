@@ -26,4 +26,4 @@ exports.merge = function merge(code, strings) {
 };
 
 // load some standard definitions
-require('lib/definitions.json').forEach(exports.definition);
+require('./lib/definitions.json').forEach(exports.definition);
