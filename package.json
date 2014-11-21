@@ -2,12 +2,9 @@
   "name": "t",
   "private": true,
   "description": "extended translating",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "keywords": [],
   "main": "./index",
-  "maintainers": [
-    "Arpad Borsos <arpad.borsos@googlemail.com> (http://swatinem.de)"
-  ],
   "dependencies": {
     "t-component": "*"
   },
@@ -21,6 +18,6 @@
   "scripts": {
     "test": "make test-coveralls"
   },
-  "repository": "git://github.com/Swatinem/t.git",
+  "repository": "git://github.com/ubergrape/t.git",
   "license": "LGPLv3"
 }
