@@ -9,7 +9,7 @@
     "t-component": "git://github.com/npmcomponent/component-t"
   },
   "browser": {
-    "t": "t-component"
+    "t-component": "component-t"
   },
   "devDependencies": {
     "coveralls": "*",
