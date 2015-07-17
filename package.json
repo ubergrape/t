@@ -4,16 +4,16 @@
   "description": "extended translating",
   "version": "1.0.1",
   "keywords": [],
-  "main": "./index",
+  "main": "index.js",
   "dependencies": {
-    "t-component": "*"
+    "t-component": "^1.0.0"
   },
   "devDependencies": {
-    "istanbul": "*",
-    "mocha": "*",
-    "should": "*",
     "coveralls": "*",
-    "jshint": "*"
+    "istanbul": "*",
+    "jshint": "*",
+    "mocha": "*",
+    "should": "*"
   },
   "scripts": {
     "test": "make test-coveralls"
