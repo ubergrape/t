@@ -6,10 +6,10 @@
   "keywords": [],
   "main": "index.js",
   "dependencies": {
-    "t-component": "git://github.com/npmcomponent/component-t"
+    "component-t": "git://github.com/npmcomponent/component-t"
   },
   "browser": {
-    "t-component": "component-t"
+    "t": "component-t"
   },
   "devDependencies": {
     "coveralls": "*",
