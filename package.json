@@ -6,7 +6,7 @@
   "keywords": [],
   "main": "index.js",
   "dependencies": {
-    "t-component": "^1.0.0"
+    "t-component": "git://github.com/npmcomponent/component-t"
   },
   "devDependencies": {
     "coveralls": "*",
