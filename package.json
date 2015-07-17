@@ -8,6 +8,9 @@
   "dependencies": {
     "t-component": "git://github.com/npmcomponent/component-t"
   },
+  browser: {
+    "t": "t-component"
+  },
   "devDependencies": {
     "coveralls": "*",
     "istanbul": "*",
