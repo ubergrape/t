@@ -8,7 +8,7 @@
   "dependencies": {
     "t-component": "git://github.com/npmcomponent/component-t"
   },
-  browser: {
+  "browser": {
     "t": "t-component"
   },
   "devDependencies": {
